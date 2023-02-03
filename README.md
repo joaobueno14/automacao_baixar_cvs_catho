@@ -2,10 +2,10 @@ Automação feita em Python com o objetivo de baixar vários PDFs da pagina da C
 
 Pacotes do Python usados:
 
-Time
-Selenium
-ChromeDriverManager
-Pyautogui
+Time,
+Selenium,
+ChromeDriverManager,
+Pyautogui,
 Clipboard
 
 Como usar:
